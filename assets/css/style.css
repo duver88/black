@@ -1,0 +1,16 @@
+html, body{
+    margin: 0px;
+    background-color: #2F4F30;
+}
+
+.titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.fondoVerde{
+    background-color: #2F4F30;
+}
